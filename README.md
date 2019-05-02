@@ -37,7 +37,7 @@ First, you'll need the following to make this work:
 * The 10k Potentiometer’s other legs connect to +5V and GND
 * For the backlight of the display, pin 15 (A+) and 16 (K-) of the LCD connect to +5V and GND
 
-[The Wiring Diagram](https://github.com/royalPanic/Arduino-Ultrasonic-LCD/blob/master/Wiring_Diagram.png)
+![Wiring Diagram](https://github.com/royalPanic/Arduino-Ultrasonic-LCD/blob/master/Wiring_Diagram.png)
 
 ## Step Three: Coding
 Now's where we get to part where we can plug the Arduino into your computer. We'll open up the IDE and start a new sketch. Copy and paste the following into your sketch, and save it.
