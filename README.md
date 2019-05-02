@@ -17,11 +17,11 @@ First, you'll need the following to make this work:
 * One 10k potentiometer
 * One breadboard
 * Twenty Male-to-Male pin cables (you can use any lengths or colours you want, but for visual simplicity I broke it down by colour)
- * Six Red cables
- * Five Black cables
- * One Light Blue cable
- * Six Orange cables
- * Two Blue cables
+    * Six Red cables
+    * Five Black cables
+    * One Light Blue cable
+    * Six Orange cables
+    * Two Blue cables
 
 ## Wiring:
 * LCD VSS pin to Arduino GND
